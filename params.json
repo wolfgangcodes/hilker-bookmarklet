@@ -1,0 +1,6 @@
+{
+  "name": "Hilker-bookmarklet",
+  "tagline": "",
+  "body": "# hilker-bookmarklet\r\nAdds:\r\n>LGTM\r\n\r\n– Good Code Cat™ ![LGTM](https://emoji.slack-edge.com/T024WBZ4E/glasscat/1ba56bc1228df3cf.png)\"\r\n\r\nTo the current text field.\r\n\r\n  <h3>The Bookmarklet</h3>\r\n  <p>\r\n    <a\r\n      class=\"bookmarklet\"\r\n      href=\"javascript:javascript: (function () { var e = document.createElement('script'); e.setAttribute('src', 'https://wolfgangcodes.github.io/hilker-bookmarklet/lgtm.js'); e.setAttribute('class', 'svg-crowbar'); document.body.appendChild(e); })();\"\r\n      >LGTM!</a>&nbsp;\r\n    <span>← Drag this to your bookmarks bar.</span>\r\n  </p>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
