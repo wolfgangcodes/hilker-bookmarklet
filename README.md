@@ -6,7 +6,4 @@ Adds:
 
 To the current text field.
 
-The bookmarklet:
-[lgtm!][1]
-
-[1]:javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://cdn.rawgit.com/wolfgangcodes/hilker-bookmarklet/master/lgtm.js';}());
+[Project Page] (https://wolfgangcodes.github.io/hilker-bookmarklet)
